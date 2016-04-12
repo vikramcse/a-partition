@@ -1,6 +1,6 @@
 {
   "name": "a-partition",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Splits an array into two parts if given predicate satisfied",
   "main": "index.js",
   "scripts": {
